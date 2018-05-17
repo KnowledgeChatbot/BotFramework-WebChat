@@ -260,7 +260,7 @@ const localizedStrings: LocalizedStrings = {
         speak: ""
     },
     'zh-hans': {
-        title: "聊天",
+        title: "随时随地,轻松获取Azure支持",
         send: "发送",
         unknownFile: "[类型为'%1'的文件]",
         unknownCard: "[未知的'%1'卡片]",
